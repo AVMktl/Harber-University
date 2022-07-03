@@ -1,7 +1,10 @@
 # Harber-University
-This a website of an imaginary university.
+Front-end of a responsive university website of the imaginary institute “Harber University” using front-end technologies like CSS and javascript.
 
-This is the website of the imaginary institute “Harber University” which tells about the university and takes comments and feedback.
+This provides a front-end interface for the university website and takes comments
+
+# Preview
+https://avmktl.github.io/Harber-University/
 
 Website UI
 
